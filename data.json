@@ -1,0 +1,16 @@
+{
+    "data": [
+        {"title": "Food Menue", "img": "./img/food-01.jpg", "footer": "Food Menue 2020"},
+        {"title": "Food Menue", "img": "./img/food-02.jpg", "footer": "Food Menue 2019"},
+        {"title": "Food Menue", "img": "./img/food-03.jpg", "footer": "Food Menue 2021"},
+        {"title": "Food Menue", "img": "./img/food-04.jpg", "footer": "Food Menue 2028"},
+        {"title": "Cooking Stuff", "img": "./img/stuff-01.jpg", "footer": "Cooking Stuff 2018"},
+        {"title": "Cooking Stuff", "img": "./img/stuff-02.jpg", "footer": "Cooking Stuff 2018"},
+        {"title": "Cooking Stuff", "img": "./img/stuff-03.jpg", "footer": "Cooking Stuff 2018"},
+        {"title": "Cooking Stuff", "img": "./img/stuff-04.jpg", "footer": "Cooking Stuff 2018"},
+        {"title": "Home Furniture", "img": "./img/thumb-01.jpg", "footer": "Home Furniture 2018"},
+        {"title": "Home Furniture", "img": "./img/thumb-02.jpg", "footer": "Home Furniture  2018"},
+        {"title": "Home Furniture", "img": "./img/thumb-03.jpg", "footer": "Home Furniture  2018"},
+        {"title": "Home Furniture", "img": "./img/thumb-04.jpg", "footer": "Home Furniture  2018"}
+    ]    
+}

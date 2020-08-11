@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="w3.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Filter</title>
+</head>
+<body>
+
+    <div class="tabs">
+        <button class="w3-button w3-green" onclick="getDataByType('All')">All</button>
+        <button class="w3-button w3-teal" onclick="getDataByType('Food Menue')">Food</button>
+        <button class="w3-button w3-khaki" onclick="getDataByType('Cooking Stuff')">Stuf</button>
+        <button class="w3-button w3-yellow" onclick="getDataByType('Home Furniture')">Homes</button>
+    </div>
+
+    <div id="cards" class="cards"></div>
+
+    <script src="main.js"></script>
+</body>
+</html>
